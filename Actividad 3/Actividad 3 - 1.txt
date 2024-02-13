@@ -1,0 +1,9 @@
+import Foundation
+
+var num = 25
+
+if(num%2==0){
+print("par")
+}else{
+print("impar")
+}

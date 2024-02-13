@@ -1,0 +1,18 @@
+import Foundation
+
+var edad = 0
+
+switch edad{
+    case 0...9:
+        print("E")
+    case 10...12:
+        print("E10+")
+    case 13...16:
+        print("T")
+    case 17:
+        print("M")
+    case 18...100:
+        print("AO")
+    default:
+         print("s")
+}
