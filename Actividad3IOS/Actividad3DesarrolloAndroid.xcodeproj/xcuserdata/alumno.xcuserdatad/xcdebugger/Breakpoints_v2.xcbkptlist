@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7498E6E-8D53-4282-9042-55CAF6B988E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Actividad3DesarrolloAndroid/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136 - 60eb543a8e97bddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Actividad3DesarrolloAndroid.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Actividad3DesarrolloAndroid.ViewController"
+                  moduleName = "Actividad3DesarrolloAndroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/ActividadesEpicas/Actividad3DesarrolloAndroid/Actividad3DesarrolloAndroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136 - 28ae06185f64740"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Actividad3DesarrolloAndroid.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Actividad3DesarrolloAndroid.ViewController"
+                  moduleName = "Actividad3DesarrolloAndroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/ActividadesEpicas/Actividad3DesarrolloAndroid/Actividad3DesarrolloAndroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136 - db5a42d4188d24b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Actividad3DesarrolloAndroid.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Actividad3DesarrolloAndroid.ViewController&gt;"
+                  moduleName = "Actividad3DesarrolloAndroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/ActividadesEpicas/Actividad3DesarrolloAndroid/Actividad3DesarrolloAndroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136 - fc1aab000e522169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Actividad3DesarrolloAndroid.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Actividad3DesarrolloAndroid.ViewController&gt;"
+                  moduleName = "Actividad3DesarrolloAndroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/ActividadesEpicas/Actividad3DesarrolloAndroid/Actividad3DesarrolloAndroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "FCEE4452-43A1-4E19-ABB5-DCF6F91E0136 - e373980a5f7fa346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Actividad3DesarrolloAndroid.ViewController.__deallocating_deinit"
+                  moduleName = "Actividad3DesarrolloAndroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/ActividadesEpicas/Actividad3DesarrolloAndroid/Actividad3DesarrolloAndroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
