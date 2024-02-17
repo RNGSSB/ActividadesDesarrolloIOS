@@ -1,0 +1,23 @@
+import Foundation
+var numH = -1
+var space = 25
+for _ in 1...25 {
+    space-=1
+    numH+=2
+    for _ in 0..<space{
+        print(" ", terminator: "")
+    }
+    for _ in 0..<numH{
+        print("#", terminator: "")
+    }
+    print("")
+}
+for _ in 1...4{
+    for _ in 0...21{
+        print(" ", terminator: "")
+    }
+    for _ in 0...4{
+        print("#", terminator: "")
+    }
+    print("")
+}
